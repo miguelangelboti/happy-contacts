@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Theme.HappyContacts" parent="Theme.Material3.DayNight" />
+
+    <style name="Theme.HappyContacts.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.HappyContacts.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.HappyContacts.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

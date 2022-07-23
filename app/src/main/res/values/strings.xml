@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Happy Contacts</string>
+    <string name="birthdays">Cumpleaños</string>
+    <string name="contacts">Contactos</string>
+    <string name="date">%1$s de %2$s</string>
+    <string name="message">Mensaje</string>
+    <string name="copy">Copiar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="new_message">Nuevo mensaje</string>
+    <string name="generating_message">Generando un mensaje</string>
+    <string name="message_copied">El mensaje se ha copiado</string>
+</resources>
